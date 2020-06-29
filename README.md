@@ -1,2 +1,2 @@
-# EMAIL
-CRIADOR DE EMAIL 
+#  E-MAIL TEMPORARIO AUTOMATIZADO
+cria E-mail temparios rapidamente
